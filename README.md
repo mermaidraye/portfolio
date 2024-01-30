@@ -3,10 +3,10 @@ Skytrax is an International air transport rating organisation, was established i
 
 ## Goals of the analysis:
 Answer business questions :
-Which airline has the highest recommended Ratio (%)?
-Does the text review wording length have relationship with the overall review score (1-10)?
-To understand what factors the customers care about the most when recommending the airline?
-To build the predictive models that helps airline company to predict good feedback (willing to recommend others) as our marketing campaign target
+- Which airline has the highest recommended Ratio (%)?
+- Does the text review wording length have relationship with the overall review score (1-10)?
+- To understand what factors the customers care about the most when recommending the airline?
+- To build the predictive models that helps airline company to predict good feedback (willing to recommend others) as our marketing campaign target
 
 # Part 2 - Exploratory Data Analysis
 
