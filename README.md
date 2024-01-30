@@ -12,10 +12,10 @@ Answer business questions :
 
 ## 2.1 Dataset Preview
 ## 2.2 Data cleaning :
-1.Deal with duplicated rows
-2.Deal with missing values
-3.Fix the date data
-4.Deal with customer review column(free text column)
+- Deal with duplicated rows
+- Deal with missing values
+- Fix the date data
+- Deal with customer review column(free text column)
 
 ## 2.3 Analysis
 ### Findings:
